@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**juampi92/juampi92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Juan Pablo, a Laravel developer @ [Studocu](https://www.studocu.com/) 👋
 
-Here are some ideas to get you started:
+- 🔨 I’m currently working on [phecks](https://github.com/juampi92/phecks)
+- 📫 Reach me on Twitter: [@juampi_92](https://twitter.com/juampi_92)
+- 📚 I like to write on [Medium](https://juampi92.medium.com/) from time to time
+- 🪓 Check out [my gists](https://gist.github.com/juampi92)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📦 Laravel Packages
+
+📕 **[api-resources](https://github.com/juampi92/api-resources):** Manage multiple API versions.</br>
+📕 **[laravel-query-cache](https://github.com/juampi92/laravel-query-cache):** A simple fluent interface for caching queries.
