@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi
 
 I'm Juan Pablo, a Laravel developer @ [Studocu](https://www.studocu.com/) 👋
 
